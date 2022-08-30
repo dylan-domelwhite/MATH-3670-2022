@@ -1,3 +1,5 @@
+% Code by Dr. Alex Powell
+
 N = 1000;
 sigma = 1;
 
