@@ -4,8 +4,8 @@ rng('default') %initialize seed for random number generator
 rng(1)
 
 %class conditional means
-mu1=[-5;5];
-mu2=[5;5];
+mu1=[0;0];
+mu2=[0;10];
 mu3=[0;-10];
 
 
