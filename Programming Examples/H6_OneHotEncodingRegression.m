@@ -1,5 +1,4 @@
 % Matlab example: classification by regression with indicator matrix
-% Homework 6 Problem 3
 rng('default') %initialize seed for random number generator
 rng(1)
 
