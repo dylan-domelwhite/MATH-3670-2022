@@ -1,5 +1,4 @@
 % Matlab example: classification using linear discriminant analysis
-% Homework 6 Problem 4
 rng('default') %initialize seed for random number generator
 rng(1)
 
